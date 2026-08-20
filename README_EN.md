@@ -1,4 +1,4 @@
-# Digital Millennium / 数字千年计划
+# Digital Millennium
 
 🌐 [中文](README.md)
 
