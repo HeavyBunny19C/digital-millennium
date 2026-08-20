@@ -8,7 +8,7 @@ A repair worker can hear that a machine is going wrong before a gauge shows a fa
 
 Much of this knowledge never reaches a book. It lives in movements, judgments, sequences, exceptions, and instincts built through repeated work. When someone changes jobs, retires, or dies, the knowledge may have no way to reach the next person. It is not ranked by occupation, industry, job title, education, language, or country. People who work with their hands, people who study and write, and people who care for, teach, build, organize, repair, grow, or create should all be able to share their experience and use what comes from it.
 
-Sharing and using this knowledge should not depend on one's profession. We want knowledge from different places and kinds of work to become a shared commons that workers, intellectuals, and practitioners everywhere can contribute to, use, and keep improving.
+Sharing and using this knowledge should not depend on one's profession. We want knowledge from every kind of work to become a shared commons, shaped and used by workers, intellectuals, and practitioners everywhere.
 
 Digital Millennium is an early, open effort to give these experiences a place where they can gradually be described, structured, tested through use, corrected, and turned into Skills that people can read and AI can use. A contributor does not need to know how to write a complete Skill before their experience has value.
 
